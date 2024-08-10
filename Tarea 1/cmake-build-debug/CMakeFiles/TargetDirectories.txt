@@ -1,3 +1,0 @@
-C:/Users/Ivan/CLionProjects/Tareas_EDIII/Tarea 1/cmake-build-debug/CMakeFiles/Tareas_EDIII.dir
-C:/Users/Ivan/CLionProjects/Tareas_EDIII/Tarea 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ivan/CLionProjects/Tareas_EDIII/Tarea 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
