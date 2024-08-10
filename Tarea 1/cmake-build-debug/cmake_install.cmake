@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Ivan/CLionProjects/Tareas_EDIII
+# Install script for directory: C:/Users/Ivan/CLionProjects/Tareas_EDIII/Tarea 1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Ivan/CLionProjects/Tareas_EDIII/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Ivan/CLionProjects/Tareas_EDIII/Tarea 1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
